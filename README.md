@@ -2,5 +2,6 @@
 
 Bem vindo! Meu livro de receitas :wave:
 
-- 
+- Carne assada
+- strogonoff de frango
 
